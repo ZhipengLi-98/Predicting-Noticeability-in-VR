@@ -1,5 +1,7 @@
 # Predicting the Noticeability of Dynamic Virtual Elements in Virtual Reality
 
+<img width="917" alt="Screenshot 2024-02-04 at 09 54 02" src="https://github.com/ZhipengLi-98/Predicting-Noticeability-in-VR/assets/26594068/1a49d407-0db1-4989-a6fc-1d12ae9334b6">
+
 Authors: Zhipeng Li, Yi Fei Cheng, Yukang Yan, David Lindlbauer
 
 Publication: ACM CHI, 2024
