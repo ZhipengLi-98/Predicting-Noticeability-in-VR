@@ -14,3 +14,11 @@ tasks such as watching a video or typing. We evaluate our approach (n = 12), and
 ## Code
 
 This repo contains the Unity user study platform and the machine learning model training code.
+
+The Unity project demonstrates the user study environment, including the background, primary tasks, and visual effects. Dependencies: RockVR (for recording users' view).
+
+The python code includes the computation of features and the training of LSTM and other traditional machine-learning models. Dependencies: Python 3, numpy, pandas, keras.
+
+## Citation
+
+To be added.
